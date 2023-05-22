@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with RPA<br>👯 I’m looking to collaborate on Tech Development<br>🤝 I’m looking for help with Bot Kit<br>🌱 I’m currently learning .NET Core, Rest API and node.js, Bot Kit<br>💬 Ask me about everithing<br>⚡ Fun fact I'm born in the city of Sobral - CE
+🔭 I’m currently working with RPA<br>👯 I’m looking to collaborate on Tech Development<br>🤝 I’m looking for help with Bot Kit<br>🌱 I’m currently learning UiPath and improving my python skills<br>💬 Ask me about everithing<br>⚡ Fun fact I'm born in the city of Sobral - CE
 
 
 ## 🌐 Socials:
